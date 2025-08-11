@@ -626,37 +626,6 @@ section {
     color: #4b5563;
 }
 
-.references h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 1.5rem;
-}
-
-.reference-item {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-}
-
-.reference-item h4 {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 0.5rem;
-}
-
-.reference-item p {
-    color: #4b5563;
-    margin-bottom: 0.25rem;
-}
-
-.reference-item i {
-    color: #6366f1;
-    margin-right: 0.5rem;
-}
-
 /* Footer */
 .footer {
     background: #1f2937;
