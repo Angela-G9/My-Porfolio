@@ -559,6 +559,17 @@ section {
     text-decoration: underline;
 }
 
+.contact-link {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-link:hover {
+    color: #6366f1;
+    text-decoration: underline;
+}
+
 .languages {
     margin-top: 3rem;
     text-align: center;

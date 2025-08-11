@@ -148,6 +148,14 @@ function handleContactForm(event) {
     alert('Thank you for your message! I will get back to you soon.');
 }
 
+// Download CV function
+function downloadCV() {
+    // Create a temporary message since we don't have an actual CV file
+    alert('CV download will be available soon. Please contact Angela directly for her CV.');
+    // In a real scenario, you would link to an actual PDF file:
+    // window.open('path/to/angela-gathoni-cv.pdf', '_blank');
+}
+
 // Add some interactive elements
 document.addEventListener('DOMContentLoaded', function() {
     // Add click handlers for contact items
